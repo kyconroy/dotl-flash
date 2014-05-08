@@ -1,0 +1,32 @@
+# 5-1 Multiple enemy bases
+%10000
+
+ E>>>>>>>>>>>>>>>v
+  awwwww         v
+       m    v<<<<l
+          wwvw  wv
+  *v<<<<<<<<<    v
+   v   ww   Aw   v
+   v   v<<<<<<<<<l
+   vM  v  wE>>>>>v
+   v   v   ww  w v  
+   r>>>v   ww    v     
+   v   v      h  v
+   v  *v*    ww  v
+   >>>>P<<<<<<<<<<
+                 
+
+@10,15 aaaaaa
+@45,20,1 aaaaaaa
+@30,25 aaaaaaaaaa
+@20,30 BbBbBbbb
+@55,25,1 ccCCCcc
+@40,40 aaAaAaAAAaa
+@25,40 bbBBbbBBbbbb
+@55,25,1 CCCcccCC
+@25,40 bBBbbBbBbbBB
+@40,40,1 aaaAAAAaaaaa
+@60,35 ccccCCCccc
+@40,65 aaaAaaaaa
+@0,65,1 AAAAAAA
+@45,50 CcCCccCcccccccC

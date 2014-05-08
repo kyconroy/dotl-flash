@@ -1,0 +1,23 @@
+# World 4, Level 1  
+%10000
+
+     *          
+     P<<<<<<<<< 
+     *     ^  ^
+  >>>>>>>>>^ w^
+  ^w     ^    ^
+  ^    M R>>>>^*
+  ^* ww  ^   
+  ^  wwwvLw 
+  ^   awvNwww    
+  ^<<<<<<ww
+    	a
+@10,15 aaaaaa
+@30,20 bbbbbb
+@50,30 aaaaaaaaaa
+@40,30 cccccccc
+@65,50 aaaaaaccaaaaaa
+@40,45 bbbbbbbbbb
+@45,65 aaaaaaaaaaaaaaaa
+@55,65 cccccccccccc
+@45,70 aaaaaaaaaaaaaaaaaa

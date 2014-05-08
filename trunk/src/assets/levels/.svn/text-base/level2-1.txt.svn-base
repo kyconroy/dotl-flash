@@ -1,0 +1,26 @@
+﻿#World 2, Level 1
+%4700
+                   
+          www v<<W
+          www v  
+              v ww 
+           v<<<aww
+     v<<<  v   w*w
+     v m^* v 
+ *   v  ^  v
+ P<<<<  ^<<< 
+ *    w    
+ 	  ww 
+
+@0,0
+$upgradespeed 10
+!0.5,3 14,9,0.65|To upgrade a tower, select it and click on the Upgrade Button.
+@0,0
+$upgradespeed 1
+@05,15 aaaaaa
+@10,20 aaaaaaaa
+@10,25 aaaaaaaaaa
+@10,40 aaaaaaaaaaaa
+@15,50 aaaaaaaaaaaaaa
+@15,55 aaaaaaaaaaaaaa
+@15,60 aaaaaaaaaaaaaaaa

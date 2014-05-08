@@ -1,0 +1,25 @@
+#World 6, Level 2            
+%10000
+
+    v<<     v<<
+   v<w^<   v<w^<
+   vwww^<wv<www^<
+   vw*ww^wvwwwww^
+  w>>P w|<<wwE>>|
+   ^w*wwvw^wwwwwv
+   ^wwwv<w^<wwwv<
+   ^<wv<   ^<wv<
+    ^<<     ^<<
+	
+@20,15 bbbb
+@40,15 aaaaaa
+@50,20 aaaaaaaa
+@0,35 ccc
+@60,45 aAaAAaaAAa
+@40,50 aAAAAaaaaaa
+@35,55 bBbBbBbBbBb
+@0,45 CCCcccCCC
+@40,65 AAAaaAAa
+@40,75 bBBBBBBbBbb
+@70,65 CCCcCCCCcccccCCC
+@60,100 aaAAAAAAAaaaaAAAAa

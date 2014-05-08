@@ -1,0 +1,30 @@
+﻿#Tutorial Level: UI 
+
+
+
+
+
+
+
+  *            a*
+  E>>>>v  >>>>>>P
+  *   *v  ^*   a*
+      *>>>^
+
+!0 2,2,1|Game Interaction Tutorial.
+!0 2,2,0.5|The sidebar is how you will be interacting with the game.
+!0 6,0,0.5|Your score is displayed at the very top -->
+!0 5,1,0.5|Your health is displayed just below the score -->
+!0 2,2,0.5|If enemies reach your base, your health goes down. If health is empty, you lose the level.
+!0 5,1.75,0.5|Below the health display is the wave display -->
+@0,5 aaaaa
+!0 2,2,0.5|If the enemy icons are lit, then a wave is active and enemies are coming!
+!0 3,2.75,0.5|This space below is where your towers are stored -->
+!0 5,2.75,0.5|As you obtain towers, they will appear here.
+!0 2,2,0.5|The space below the tower display is the information display.
+$activate
+!0 2,2,0.5|Select a tower from the sidebar or game field to display its stats.
+!0 2,2,0.5|The map button can be used to return to the main world map at any time during a game.
+@0,5
+$win 2 10,0,0.5|Level Complete!
+#Required newline.

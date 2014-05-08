@@ -1,0 +1,45 @@
+# First level, should be super easy. 
+
+ 
+      S
+     *v
+      v
+      v
+     wvwwww
+     wvA*ww
+     wvwwww
+      v
+     *v*
+      P
+
+!001,9 15,0.0|Up here in the corner is your score.
+!015,4.5 14,1|You get points for killing enemies, the faster the better.
+!020,4.5 15,1|This is your health bar.
+!025,4.5 7.5|This is the sidebar, it is how you will interact with the game.
+!010,4.5 15,5,03|If you let the enemy get from here...
+!030,4.5 7.5,12.5|... to your base, you will take damage.
+!035,4.5 15,3|These are your towers, they are how you defend your base.
+!040,4.5 15,3.5|This is the light tower, build these to see in the darkness.
+!045,4.5 14,4.5|Your towers can only be built within the illumination of a light tower...
+!050,4.5 14,5.5|...and enemies can only be attacked when illuminated by a light tower.
+!055,4.5 16,6|These are your attack towers, they are your firepower.
+!060,4.5 14,5.5|To build any tower, click on the tower button, drag to the buildable area, and click to place.
+!065,4.5 15,7.5|This is your upgrade button, it makes one of your towers stronger.
+!070,4.5 15,8.5|To upgrade a built tower, click on it to select it, and then click the upgrade button.
+!075,4.5 15,5.5|When you build a tower, you must wait before you build another.
+!080,4.5 14,6.5|How long you wait depends on the type of tower...
+!085,4.5 14,7.5|...and towers will flash when they are ready to be built again.
+!090,4.5 15,7.5|The wait for an upgrade is independent of the wait for a tower...
+!095,4.5 14,8.5|... and the small '+' signs indicate how many upgrades you have stored up.
+!100,4.5 15,10|This is the information display. Statistics for selected towers will be displayed here.
+!105,4.5 15,18|Click the button here to return to the world map at any time.
+#@05,70 aaaaaa
+#@10,20 aaaaaa
+#@10,25 aaaaaa
+#@10,30 aaaaaa
+#@10,35 aaaaaa
+#@10,40 aaaaaa
+#@10,50 aaaaaa
+#@10,55 aaaaaa
+#@10,60 aaaaaa
+#@10,70 aaaaaa

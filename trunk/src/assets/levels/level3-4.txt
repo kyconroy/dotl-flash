@@ -1,0 +1,25 @@
+#World 3, Level 4
+%12500
+ 
+          m v<<W
+            v 
+      www   v 
+ wv<<<<<<<<<->>>>v
+wwv         www*wv
+*wv    c     wv<<<
+wwv           v
+  v     v<<<<<<
+  v     v  ww 
+ *v*    v www
+  P<<<<<< *ww
+
+@10,15 aaaaaa
+@20,20 aaaaaaaa
+@30,25 aaaaaaaaaa
+@25,30 bbbbbbbb
+@35,50 aaaaaaaaaaaa
+@25,45 bbbbbbbbbb
+@40,55 aaaaaaaaaaaaaaaa
+@70,30 cccccccccccc
+@50,45 aaaaaaaaaaaaaa
+@45,40 bbbbbbbbbbbb

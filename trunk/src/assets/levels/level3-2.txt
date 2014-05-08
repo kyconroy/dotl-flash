@@ -1,0 +1,24 @@
+#World 3, Level 2
+%6950
+
+              *
+            >>P 
+        *   ^ *
+ m>>>>>>>>>>^  
+  ^      ^a    
+  ^ w    ^     
+ w^ww    ^ www  
+ w^*    >^ www  
+  ^a    ^awwww  
+  R>>>>>^ wwww
+  N        ww   
+  
+@10,15 aaaaaa
+@20,20 aaaaaaaa
+@30,25 aaaaaaaaaa
+@45,30 cccccccc
+@45,50 aaaaaaaaaaaa
+@50,45 cccccccccc
+@45,60 aaaaaaaaaaaaaa
+@60,55 cccccccccccc
+@55,70 aaaaaaaaaaaaaaaa

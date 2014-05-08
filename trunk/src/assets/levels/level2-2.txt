@@ -1,0 +1,19 @@
+#World 2, Level 2
+%6800
+         wwwm     
+             v<<<<
+         v<<<<   ^
+        v<       ^
+*     v<<* wwww  ^
+P<<<<<<    wwww  ^
+*          www   ^
+  www            ^
+  www            N
+
+@10,15 aaaaaa
+@10,20 aaaaaaaa
+@10,25 aaaaaaaaaa
+@15,45 aaaaaaaaaaaaaa
+@15,60 aaaaaaaaaaaaaaaaaa
+@15,70 aaaaaaaaaaaaaaaaaa
+@20,75 aaaaaaaaaaaaaaaaaaaa

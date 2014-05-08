@@ -1,0 +1,26 @@
+# World 4, Level 2
+%8500
+
+  
+ wwwwww*           
+ ww v<<<<l<<<<->>>v 
+ ww v  m v ww ^   v 
+    v<<<<< ww ^ wwvw 
+ v<<<  wwwwww ^ wwvw 
+ v ww     *  w^ wwvw
+ >>>>>>>>>P  w^w wv 
+       ^  * wwNw  v 
+       ^    wwww  vc
+       ^<<<<<<<<<<< 
+     
+@10,15 aaaaaa
+@25,20 aaaaaaaa
+@35,25 aaaaaaaaaa
+@15,30 bbbbbbbb
+@45,55 aaaaaaaaaaaa
+@25,40 bbbbbbbbbb
+@60,60 aaaaaaaaaaaaaaaa
+@40,50 cccccccccc
+@60,65 aaaaaaaaaaaaaaaaaa
+@40,70 bbbbbbbbbbbbbbbb
+@70,75 aaaaaaaaaaaaaaaaaaaa

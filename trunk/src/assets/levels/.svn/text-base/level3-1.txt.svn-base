@@ -1,0 +1,22 @@
+#World 3, Level 1 Split paths
+%6200
+                S
+                v 
+   *v<<<<<<<<<<<l
+    v     c    mv   
+    v  wwwwww   v ww
+    v           v ww
+    >>>>v<<<<<<<<*
+       *v*      
+        P         
+            
+
+@05,15 aaaaaa
+@25,20 aaaaaa
+@35,25 aaaaaaaa
+@35,30 aaaaaaaaaa
+@45,55 aaaaaaaaaaaa
+@65,45 cccccccc
+@45,65 aaaaaaaaaaaaaaaa
+@70,50 cccccccccc
+@60,70 aaaaaaaaaaaaaaaa

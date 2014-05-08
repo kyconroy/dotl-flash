@@ -1,0 +1,33 @@
+﻿# First level, should be super easy. 
+
+ 
+
+
+
+
+            m    m 
+       a       a  *
+ E>>>>>>>>>>>>>>>>P 
+       a          *
+            m    m
+            
+!0 2,2,1|Light Tower Tutorial
+!0 2,2,0.5|Light towers provide a radius of light to see through the darkness.
+!0 2,2,0.5|Towers can only be built in the light, and enemies are attackable only when illuminated.
+@0,0
+$activate
+@0,1
+$buildspeed 10
+!0 2,2,0.5|Begin building a light tower by clicking the button or pressing the keyboard hotkey (Q).
+!0 2,2,0.5|Use the mouse to move the tower to the buildable area within the given light radii, and click to place.
+@0,2
+#$buildtimer 9.5
+!0 2,2,0.5|Build more light towers to expand your field of vision and uncover hidden objects on the map!
+@0,3
+#$buildtimer 9.5
+!0 2,2,0.5|Enemies are coming! Iluminate towers to destroy them!
+@0,20 aaaaa
+@10,20 aaaaa
+@15,0
+$win 2 10,0,0.5| Level Complete!
+# Required newline.  

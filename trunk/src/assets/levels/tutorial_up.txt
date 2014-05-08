@@ -1,0 +1,33 @@
+﻿# First level, should be super easy. 
+
+ 
+
+
+
+    *>>>v
+     ^  v
+     ^  v      *
+ E>>>^  v  >>>>P 
+        v  ^   *
+        v  ^
+       *>>>^
+           
+!0 5,2,1|Upgrade Tutorial
+!0 2,2,0.5|Your basic attack towers have the ability to upgrade into more powerful towers with special abilities.
+!0 2,2,0.5|The upgrade button appears below your attack towers and is also bound to the 'Z' key on the keyboard.
+@0,1
+$activate
+@0,1
+$buildspeed 2
+!0 2,2,0.5|To upgrade a tower, select on a tower that has been built and press the upgrade button.
+!0 2,2,0.5|Select an arrow tower on the field and click the upgrade button.
+!0 2,2,0.5|The arrow tower now has expanded range, upgraded damage, and can shoot up to 2 enemies!
+!0 2,2,0.5|You'll notice that this triggered a cooldown on the upgrade.
+!0 2,2,0.5|The cooldown on the upgrade is much longer than that of the towers.
+!0 2,2,0.5|Upgrades can be stored, up to a total of 4.
+!0 2,2,0.5|When the cooldown of the first upgrade finishes, it will immediately start on the next upgrade slot.
+!0 2,2,0.5|Enemies are coming! Use the upgraded arrow towers to defend your base!
+@5,20 aaaaa
+@25,30 aaaaaa
+$win 2 10,0,0.5|Level Complete!
+#Required newline.

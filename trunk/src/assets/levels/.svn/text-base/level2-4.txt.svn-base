@@ -1,0 +1,22 @@
+﻿#World 2, Level 4
+%10000
+    E>>>>>>>>>>v    
+        wwww  v< 
+   ww     v<<<<    
+  www    v<   mw 
+  *w  v<<<  wwww 
+  v<<<<     wwww  
+  v        *wwww  
+  >>>>>>>>>Pwwww   
+ www       *wwww     
+                  
+ 
+@05,20 aaaaaaaa
+@20,25 aaaaaaaa
+@30,30 aaaaaaaaaa
+@40,50 aaaaaaaaaaaa
+@55,30 ccccccc
+@35,70 aaaaaaaaaaaaaaaa
+@55,45 ccccccccc
+@50,75 aaaaaaaaaaaaaaaaaa
+@70,55 ccccccccccc

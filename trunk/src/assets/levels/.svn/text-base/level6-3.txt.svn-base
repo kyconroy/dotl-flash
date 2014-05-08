@@ -1,0 +1,32 @@
+﻿#World 6-3
+%10000
+
+>>>v   w  w  v<<<
+^  v    ww   v  ^
+^ wv  wwhww  vw ^
+^  vwwwwwwwwwv  ^
+^wwvwwA*P*Awwvww^    
+^wwvwwww^wwwwvww^
+^  >>>>>^<<<<<  ^
+^wwwwwwwwwwwwwww^
+^ wSw wwwww wSw ^
+^  v   wMw   v  ^
+^<<-wwwwwwwww->>^
+
+@10,15 bbbb
+@40,15 aaaaaa
+@40,25 AAAAA
+@0,35,1 aaaaa
+@75,30 CCCccccc
+@45,40 AAAaaa
+@0,40,1 aaaaaa
+@55,40 bBbBbB
+@0,45,1 BBBbbb
+@70,35 cccccccccc
+@60,50 AAAAA
+@0,50,1 AAAAaaa
+@55,55 bbBBBBbbbbbb
+@70,65 aaaaaaaa
+@50,75 BBBBbb
+@0,75,1 bbbbbbbb
+@30,65 CCCCCCCCCCCC

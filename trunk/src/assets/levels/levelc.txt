@@ -1,0 +1,31 @@
+﻿#World 3, Level 5
+%8800
+
+*  *  *  *  *
+E>>>r>>>>>>>v 
+    v  ww   v
+ *v<< wwww >>v *
+  v* wwwwww  v 
+v<< wwwwwwww >>v*
+v* wwwwwwwwww  v  
+v * wwwwwwww * v 
+>>v* wwwwww *v<< 
+  v * wwww   v
+  v *  ww   v<      
+  >>>>>v<<<<<* 
+    *ACvCA*         
+       v       
+      *P*
+
+@10,25 aaaaaaaa
+@10,25 aaaaaaaaaa
+@10,30 aaaaaaaaaa
+@10,30 aaaaaaaaaa
+@10,40 aaaaaaaaaaaa
+@15,40 aaaaaaaaaaaaaa
+@15,50 aaaaaaaaaaaaaaaa
+@15,50 aaaaaaaaaaaaaaaa
+@15,60 aaaaaaaaaaaaaaaaaa
+@15,60 aaaaaaaaaaaaaaaaaa
+@20,65 aaaaaaaaaaaaaaaaaa
+@20,65 aaaaaaaaaaaaaaaaaa

@@ -1,0 +1,41 @@
+# 5-3
+%10000
+
+ E>r>>>>>>>>>>>>>v
+   v            A>v
+   vM         v<<l<
+ >>r>>>>>v wwv<  v
+ ^ v<<<<<l<<<<C  v
+ ^ v w wwv    h  v
+ ^ v w v<<<<<<<<<lA
+ ^ v w v         v
+ ^ v w r>>>>>>>>rv   
+ ^ v w v   v<<<<<-v
+ ^ r>>>>>>>v      vb   
+ ^ v A ^ * v      v   
+ ^ v h ^ P<<<<<   v
+ ^ v   ^ *    ^   v   
+ ^ v A ^ w    ^   v
+ N >>>>^<<<<<<L<<<<
+                 
+
+@20,15 aaaaaa
+@30,20,1 aaaaAAaa
+@40,25 aaaa
+@0,25,1 aaAaaa
+@35,30 bBBBbbbb
+@55,25 CCCC
+@0,25,1 CCCC
+@40,40 aaaAaaaa
+@0,40,1 aaAa
+@35,40 bBbBbBbbbbbb
+@60,35 cCc
+@0,35,1 ccccCCC
+@50,65 AAAaaaa
+@0,65,1 aaAAAAaaa
+@40,55 BBBBbbbbBBBBbb
+@80,50,1 ccCcCcCcCcCcC
+@40,90 aaAAAaa
+@0,90,1 AaaaaaAAAAa
+@50,80 bBbBbBbb
+@1,80,1 bbbBBBBBbb

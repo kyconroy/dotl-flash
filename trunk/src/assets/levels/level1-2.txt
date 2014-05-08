@@ -1,0 +1,29 @@
+# World 1 - 2 Tutorial Level
+%800
+ 
+
+
+       ww      
+        ww   * 
+  v<<<<<     S 
+ *v*   ^    wv  
+  P    ^<<<<<<
+        a      
+
+@2,3 aa
+!2,1.5 7,12,0.65|Place towers to defend your base. 
+!1.2,1.5 14,5.5,0.65|Use the mouse to build your towers. 
+!2.5,1.5 14,3.5,0.65|Building towers uses up energy.
+@0.1,0
+@20,5 aa
+!3.5,1.5 14,8.5,0.65|Enemies cannot be attacked in the darkness.
+@7.5,3 a
+$lanterntower 8,11
+#@5.5,3 a
+!4.5,2 10,11,0.65|Build Lantern Towers to reveal enemies and other objects in the fog!
+@10,10 aaaaaaaaa
+!5,5 14,16,0.65|Use these options to customize your game.
+#@10,15 aaaaaa
+#@10,25 aaaaaaaa
+#@10,30 aaaaaaaaaa
+#@10,35 aaaaaaaaaaaa

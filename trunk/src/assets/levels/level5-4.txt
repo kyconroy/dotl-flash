@@ -1,0 +1,40 @@
+# 5-4
+%10000
+  >>>>>>>>>>>>>>>>v       
+  N    v<<<<<<<   v  
+   c   v      ^   v 
+       v      ^   v
+      *v*     ^   v
+>>>>>>>P<<<<<<L<<<v               
+^                ^v
+^         ww w  w^v
+^ *v<<<<<<<<<    ^v
+^  v   ww   ^<<->^v
+^<<l   vW      ^  v
+   v   v       ^<<<  
+   v   v  m    ^h    
+h  >>>>>>>>>>>>^            
+               
+
+                 
+
+@10,15 aaaaaa
+@20,20,1 aaaAAaaa
+@30,25 AAAaaAAaa
+@45,30,1 bbbbbbbb
+@65,25 CCCCcccc
+@45,40 aaaAA
+@0,40,1AAaaaaa
+@45,40 bbbBBBBbbbbb
+@70,35,1 cccc
+@0,35 ccCCcc
+@30,65 aaAAaaa
+@0,65,1 aaaaaAAAA
+@30,55 bbBBBBbbb
+@0,55,1 bbBBB
+@50,50 cCCCcc
+@0,50,1 ccCCCcc
+@30,90 AaaaAAAAaaa
+@0,90,1 aAaaaa
+@20,80 BbbBbbB
+@1,80,1 bbbBBBBbbbB

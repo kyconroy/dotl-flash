@@ -1,0 +1,23 @@
+﻿#World 3, Level 3 Armored enemies
+%8700
+                
+E>>>>r>>>>>>>>v
+ww   v  ww a  v
+ w v<< wwww   v
+v<<<  wcwwww  vw
+v *   wwwwww  vw 
+>>>v  wwwwww  v 
+m  v   *P*w   v
+   v    ^     v*
+   >>>>>^<<<<<<
+    wwww     
+	 
+@10,15 aaaaaa
+@20,20 aaaaaaaa
+@30,25 aaaaaaaaaa
+@35,30 bbbbbbbb
+@35,50 aaaaaaaaaaaa
+@25,45 bbbbbbbbbb
+@40,60 aaaaaaaaaaaaaa
+@30,50 bbbbbbbbbbbb
+@45,65 aaaaaaaaaaaaaaaa

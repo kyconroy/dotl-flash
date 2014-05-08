@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/dotl-private/!svn/ver/40/trunk/src/com/darkdefense/enemies
+END
+Enemy.as
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/dotl-private/!svn/ver/41/trunk/src/com/darkdefense/enemies/Enemy.as
+END
+EnemyA.as
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/dotl-private/!svn/ver/23/trunk/src/com/darkdefense/enemies/EnemyA.as
+END
+EnemyB.as
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/dotl-private/!svn/ver/23/trunk/src/com/darkdefense/enemies/EnemyB.as
+END
+EnemyC.as
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/dotl-private/!svn/ver/23/trunk/src/com/darkdefense/enemies/EnemyC.as
+END
+EnemyWave.as
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/dotl-private/!svn/ver/36/trunk/src/com/darkdefense/enemies/EnemyWave.as
+END
+EnemyHealth.as
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/dotl-private/!svn/ver/3/trunk/src/com/darkdefense/enemies/EnemyHealth.as
+END
+EnemyBase.as
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/dotl-private/!svn/ver/21/trunk/src/com/darkdefense/enemies/EnemyBase.as
+END

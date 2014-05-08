@@ -1,0 +1,21 @@
+# World 1 - 4
+%4400
+               
+         aa    
+        >>>>v w
+        ^   v w
+    www ^   v  
+    mww ^   v  
+  >>>>>>^   v  
+  ^        *v* 
+  ^   *     P  
+  ^<<<W  wwwww
+          www     
+  
+@05,10 aaaaaa
+@10,15 aaaaaaaa
+@10,20 aaaaaaaaaa
+@10,35 aaaaaaaaaaaa
+@15,45 aaaaaaaaaaaaaa
+@15,50 aaaaaaaaaaaaaa
+@15,55 aaaaaaaaaaaaaaaa

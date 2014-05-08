@@ -1,0 +1,28 @@
+﻿# World 4, Level 4
+%10000
+     
+       wwwwwwww        
+    v<<<<<<<<l<<<<   
+    v  www   v w ^  
+    vhwwwww  vww ^  
+    vwwwwwwwavE>>|   
+    v wwwhw  vwwwvw 
+    v* wwwM  v wwv
+    >P* v<<l<<<<<<
+     ^  vw vwwwwww    
+     ^w vw vwwwww
+     ^<<<<<<  M
+         ww         
+	 
+@10,15 aaaaaa
+@20,20 aaaaaaaa
+@20,25 AAAAAAAAAA
+@25,30 bbbbbbbb
+@40,20 ccCCcc
+@25,40 aaaaaAaaaaaa
+@20,45 bbbbBBbbbb
+@40,30 CCCcCCCccc
+@30,55 aAaAaAaAaAaAaAaA
+@20,70 bbbBbBBBBbbbb
+@45,40 cccccCCCCCcc
+@30,80 BBBBBBBBbbbbbbb

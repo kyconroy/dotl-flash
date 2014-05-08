@@ -1,0 +1,27 @@
+#World 3, Level 5
+%20000
+
+   E>>>v          
+wwww   r>>v            
+wwww   v  >>v          
+ww   v<<    v          
+v<<<<< c ww v   *   
+v       wwww>>>v       
+>>v  wwwwwww   v       
+  v  wwwwwww  v<    
+v<<  wwwwwww  v
+v *  ww   *   v       
+v ww  >>>>P<<<<        
+>>>>>>^   *       
+
+
+@10,15 aaaaaa
+@20,20 aaaaaaaa
+@25,25 aaaaaaaaaa
+@25,30 bbbbbbbb
+@65,25 cccccccc
+@45,40 aaaaaaaaaa
+@30,40 bbbbbbbbbb
+@70,40 cccccccccc
+@50,60 aaaaaaaaaaaaaaaaaa
+@20,50 bbbbbbbbbbbbbb

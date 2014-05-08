@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/dotl-private/!svn/ver/35/trunk/src/com/darkdefense/towers
+END
+UpgradedMagicTower.as
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/dotl-private/!svn/ver/6/trunk/src/com/darkdefense/towers/UpgradedMagicTower.as
+END
+AttackRadius.as
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/dotl-private/!svn/ver/3/trunk/src/com/darkdefense/towers/AttackRadius.as
+END
+LightRadius.as
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/dotl-private/!svn/ver/3/trunk/src/com/darkdefense/towers/LightRadius.as
+END
+ClockSprite.as
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/dotl-private/!svn/ver/3/trunk/src/com/darkdefense/towers/ClockSprite.as
+END
+LightWedge.as
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/dotl-private/!svn/ver/3/trunk/src/com/darkdefense/towers/LightWedge.as
+END
+LanternTower.as
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/dotl-private/!svn/ver/35/trunk/src/com/darkdefense/towers/LanternTower.as
+END
+UpgradedStarburstTower.as
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/dotl-private/!svn/ver/35/trunk/src/com/darkdefense/towers/UpgradedStarburstTower.as
+END
+UpgradedArrowTower.as
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/dotl-private/!svn/ver/6/trunk/src/com/darkdefense/towers/UpgradedArrowTower.as
+END
+AttackTower.as
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/dotl-private/!svn/ver/41/trunk/src/com/darkdefense/towers/AttackTower.as
+END
+LightTower.as
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/dotl-private/!svn/ver/3/trunk/src/com/darkdefense/towers/LightTower.as
+END
+LighthouseTower.as
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/dotl-private/!svn/ver/34/trunk/src/com/darkdefense/towers/LighthouseTower.as
+END
+CannonTower.as
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/dotl-private/!svn/ver/35/trunk/src/com/darkdefense/towers/CannonTower.as
+END
+AttackSprite.as
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/dotl-private/!svn/ver/35/trunk/src/com/darkdefense/towers/AttackSprite.as
+END
+SelectedTowerSprite.as
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/dotl-private/!svn/ver/3/trunk/src/com/darkdefense/towers/SelectedTowerSprite.as
+END
+Tower.as
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/dotl-private/!svn/ver/6/trunk/src/com/darkdefense/towers/Tower.as
+END
+UpgradedLanternTower.as
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/dotl-private/!svn/ver/6/trunk/src/com/darkdefense/towers/UpgradedLanternTower.as
+END
+MagicTower.as
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/dotl-private/!svn/ver/35/trunk/src/com/darkdefense/towers/MagicTower.as
+END
+UpgradeTower.as
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/dotl-private/!svn/ver/19/trunk/src/com/darkdefense/towers/UpgradeTower.as
+END
+UpgradedLighthouseTower.as
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/dotl-private/!svn/ver/34/trunk/src/com/darkdefense/towers/UpgradedLighthouseTower.as
+END
+UpgradedCannonTower.as
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/dotl-private/!svn/ver/6/trunk/src/com/darkdefense/towers/UpgradedCannonTower.as
+END
+StarburstTower.as
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/dotl-private/!svn/ver/35/trunk/src/com/darkdefense/towers/StarburstTower.as
+END
+ArrowTower.as
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/dotl-private/!svn/ver/6/trunk/src/com/darkdefense/towers/ArrowTower.as
+END

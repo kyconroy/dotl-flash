@@ -1,0 +1,35 @@
+﻿#World 6, Level 1 
+%10000
+
+E>>>rwwwwwwl<<<W 
+    v  ww  v
+  v<< wwww >>v  
+ av  wwwwww  va
+v<< wwwwwwww >>v 
+v  ww*wwww*ww  v  
+v   wwwwwwww   v 
+>>v  wwwwww  v<< 
+  v   wwcw   v
+  v    ww   v<      
+  >>>>>v<<<<<  
+   wwawvwaww          
+    *  P  *    
+      * *
+
+@25,15 ccc
+@25,15,1 ccc
+@25,20 aaaaaaaa
+@35,30 bBbbbbbb
+@65,25,1 cCCCCCCcc
+@55,40 aaAaAaAAAaaa
+@45,40 bBbBb
+@1,40,1 BbBbBbB
+@20,35 cCCCCccccc
+@50,65 aaaAaaAa
+@40,55,1 bBBBbb
+@0,55 bbbBbbb
+@20,50 ccCcccCcccCcc
+@70,90 AAAAaaa
+@0,90,1 AAAAAaaaaA
+@30,80 bbBbbBbb
+@1,80,1 bbbbBBbbbb

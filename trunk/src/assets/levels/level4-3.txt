@@ -1,0 +1,30 @@
+# World 4, Level 3
+%10000
+                    
+wwww           wwwwww         
+wwww      wwwwwwwwww    
+  E>>>>>>>r>>>>>>>>v         
+ww wwwww av    * wwv         
+     wwww v   wwww v         
+     wwww >>>>>v   v        
+    wwwwwwwwww v  av         
+    wwwwwwwwPw v   v         
+    www   w*^*wv   v         
+    www     ^wwv   v         
+   wwwww    ^ wvw  v         
+   wwwww  h ^<<<<<<<         
+   wwwww    wwww         
+
+@10,15 aaaaaa
+@20,20 aaaaaaaa
+!1.2,3 5,3.5,0.65|BEWARE of dark shrouded enemies. 
+@30,25 AAAAAAAAA
+@30,30 bbbbbbbbbbb
+@75,20 cccccccc
+@40,55 aaaaaaaaaaaaaa
+@20,40 bbbbbbbbbbbb
+@75,35 CCCCCCCCCC
+@60,70 aaaaaaaaaaaaaaaa
+@40,60 bbbbbbbbBBBBBBB
+@75,50 cccccccccccc
+@60,80 aaaaaaaaaaaAaAaAaAaA

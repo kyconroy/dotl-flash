@@ -1,0 +1,26 @@
+# Testing level
+
+
+       A*AA  *S
+        v<<<<<< 
+        v*
+     v< v>v
+     vL<-RvA*
+     >vw w>>rv
+      v*   ^vv
+      >>P  |l<
+       *^<<<<
+  
+@2,10 a
+$win 2 10,0,0.5|Win Message!
+@0,0
+$activate
+@10,10 b
+@0,20 b
+@0,10 aa
+@0,10 bb
+#!0 10,1|A message in the middle!
+@10,10 aa
+#$deactivate
+@10,10 baab
+# Trailing newline required for "$" to work.  

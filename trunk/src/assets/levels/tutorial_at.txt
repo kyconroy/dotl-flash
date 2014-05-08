@@ -1,0 +1,30 @@
+﻿# First level, should be super easy. 
+
+ 
+
+
+
+
+       *>>>>v    *
+   *    ^   v   a
+   E>>>>| * >>>>>P 
+   *    v   ^   a
+       *>>>>^    *
+        
+!0 0,2,1|Attack Tower and Cooldown Tutorial
+!0 2,2,0.5|Arrow towers will be your go-to tower for killing creeps.
+!0 2,2,0.5|Arrow towers have the shortest range and damage, but have the fastest attack speed.
+@0,1
+$activate
+@0,1
+$buildspeed 2
+!0 2,2,0.5|Build arrow towers along the path to protect your base!
+!0 0,2.75,0.5|You'll notice when a tower is built, the button grays out, and a timer animation starts -->
+!0 2,2,0.5|This is called the 'cooldown' timer for the towers.
+!0 2,2,0.5|The cooldown timer is different based on the type of tower.
+!0 2,2,0.5|When a tower is built, the timers of all towers is reset.
+@0,5 aaaaaa
+!0 2,2,0.5|Enemies are coming! Build towers to defend your base!
+@15,10 aaaaaa
+$win 2 10,0,0.5|Level Complete!
+#Required newline.

@@ -1,0 +1,21 @@
+  >>>>>>>>v   *
+  ^* *  * v
+  ^  *    v   *
+ >^*      v
+ ^  *  * v< ww
+ ^   w   v  ww
+ ^       v   *
+ ^   S  wv
+ ^<<<<<<<W*  
+ P   
+ 
+     
+ 
+     *
+               
+
+@1,10,1 aAAAA
+@0,10,0 bBBBB
+$lanterntower 1,1
+@5,10,1 cCCCC
+
